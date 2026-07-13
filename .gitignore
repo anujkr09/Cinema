@@ -1,0 +1,11 @@
+bin/
+data/
+!assets/
+!assets/movies.tsv
+*.class
+*.log
+*.tmp
+launch.err
+BK*.txt
+.settings/
+.metadata/
